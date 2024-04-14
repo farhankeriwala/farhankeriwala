@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating a specialised weather web application designed for construction workers<br>🌱 I’m currently programming in Java and ReactJS<br>
+🔭 I have just created a specialised weather web application designed for construction workers and a comprehensive ticketing system for university service issues.<br>🌱 I’m currently programming in Java and ReactJS<br>
 
 
 ## 🌐 Socials:
