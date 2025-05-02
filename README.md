@@ -1,7 +1,3 @@
-# 💫 About Me:
-I am currerntly working on a full stack CDR mapping project. <br>I am a Java, Python and Web developer currently studying for a masters in computer science and in my penultimate year.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/farhan.keriwala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farhankeriwala/) 
 
